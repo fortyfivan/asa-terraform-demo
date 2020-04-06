@@ -25,7 +25,7 @@ variable "cidr_subnet" {
 
 variable "instance_ami" {
   description = "AMI for aws EC2 instance"
-  default     = "ami-759bc50a"
+  default     = "ami-06397100adf427136"
 }
 
 variable "instance_type" {
